@@ -13,6 +13,9 @@ public class MainActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("Debug flag");
+
+
+        
     }
 
 //標籤化 annoation
